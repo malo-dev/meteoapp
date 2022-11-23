@@ -1,0 +1,21 @@
+*{
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+body{
+  background-color: #111;  
+}
+.App{
+    height: 90vh;
+    max-width: 480px;
+    margin: 20px auto;
+    border-radius: 20px;
+    background-color: #fff;
+}
+.main{
+  background: #111;
+  height: 200px;
+  border-radius: 20px 20px 0px 0px;
+}
+
